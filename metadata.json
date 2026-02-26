@@ -1,0 +1,7 @@
+{
+  "name": "VibeStation",
+  "description": "A modern music media player with a nostalgic PSP-inspired XMB interface, featuring AI-powered chat, video generation, and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
